@@ -1,0 +1,10 @@
+This repository is about our proposed URL risk metrics including both our implementations and used datasets
+
+-These Matlab codes were implemented by Mahmood Deypir, mdeypir@gmail.com. 
+
+-These implementations are about our proposed url risk metrics including FRU and NRU described in our paper.
+
+-Refer to our paper about security risk metrics for URLs(Security Metrics for Identifying Risky URLs) if you use this repository for your research purpose.
+
+-As described in our paper datasets of this repository were obtained from other resources. Only some modifications, pre-processings, 
+and converting to Matlab format were applied on datasets.
