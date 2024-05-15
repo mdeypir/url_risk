@@ -2,8 +2,8 @@ This repository is about our proposed URL risk metrics including both our implem
 
 -These Matlab codes were implemented by Mahmood Deypir, mdeypir@gmail.com. 
 
--The implementations are about our proposed url risk metrics including FRU and NRU described in our paper:
- Deypir, M., & Zoughi, T. (2024). "Novel Security Metrics for Identifying Risky Unified Resource Locators (URLs)", 
+-The implementations of our proposed url risk metrics including FRU and NRU described in paper:
+Deypir, M., & Zoughi, T. (2024). "Novel Security Metrics for Identifying Risky Unified Resource Locators (URLs)", 
 Iranian Journal of Science and Technology, Transactions of Electrical Engineering, 1-19. 
 
 -As described in our paper datasets of this repository were obtained from other resources. Only some modifications, pre-processings, 
